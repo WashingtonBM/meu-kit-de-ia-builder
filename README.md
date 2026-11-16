@@ -54,34 +54,66 @@ Nada de e-mail, nome de cliente, dado da empresa, senha ou informação pessoal 
 
 ### Minha Tarefa Real
 
-_Qual tarefa da sua semana você escolheu e por que ela vale a pena?_
+_Criar um site pessoal, marca e identidade visual_
 
 ### Meus Atalhos
+_Prompt: Adaptar a Comunicação para Outro Público
+Use quando a mensagem já existe e precisa chegar a outra pessoa, com outra linguagem.
 
-_Conte quais modelos do kit você adaptou, o que ficou fixo e o que muda a cada uso._
+Modelo_
 
 ```text
-Cole aqui o seu primeiro atalho, já adaptado.
+Tenho o conteúdo abaixo e preciso comunicá-lo para recrutadores, empregadores e clientes.
+
+Adapte:
+- linguagem: formal
+- tom: discreto
+- nível de detalhe: objetivo e claro
+- exemplos: "Sou graduando em ADMINISTRACAO com uma trajetória que une a gestão de processos à paixão por ANALISE DE DADOS. Meu foco é transformar rotinas administrativas em FLUXOS EFICIENTES E AUTOMATIZADOS, utilizando tecnologia para facilitar a tomada de decisão."
+- formato: Linguagem acadêmica com palavras chave em destaque.
+
+Objetivo da comunicação: A pessoa deve entender que eu sou um administrador em formação e com experência técnica na área.
+Tom desejado: profissional, simples, formal e acadêmico.
+Formato: e-mail, WhatsApp, apresentação, post, repositório, artigos e textos.
+
+Conteúdo original:
+Sou graduando em ADMINISTRACAO com uma trajetória que une a gestão de processos à paixão por ANALISE DE DADOS. Meu foco é transformar rotinas administrativas em FLUXOS EFICIENTES E AUTOMATIZADOS, utilizando tecnologia para facilitar a tomada de decisão.
+
+Mantenha o significado principal. Não invente informações que não estejam no conteúdo original.
 ```
+### Meus Atalhos
+Template: O Segredo de um Bom Pedido à IA
+A estrutura das Aulas para qualquer pedido: contexto, instrução, objetivo e formato.
+
+Modelo
 
 ```text
-Cole aqui o seu segundo atalho, já adaptado.
+CONTEXTO
+Estou no início de uma carreira como administrador e empreendedor na área de tecnologia e preciso desenvolver minha marca e identidade visual para alcançar o público empresarial e clientes.
+
+INSTRUÇÃO
+Seja o meu mentor no desenvolvimento de marca e identidade visual.
+
+OBJETIVO
+Criar um site pessoal para desenvolver marca e identidade visual e depois abrir um negócio na área de tecnologia.
+
+FORMATO
+Linguagem atual, empresarial, tecnológica, site, blog, e-mail, whhatsapp, textos, mensagens, marketing pessoal, portifólio e posts.
 ```
 
 ### Minha Delegação
 
 ```text
-Cole aqui o pedido que você entregou à IA, com objetivo, contexto, recursos, limites e sucesso.
-```
+Seja o meu mentor, me ajude a desenvolver a minha marca e identidade visual, Criar um site pessoal para desenvolver marca e identidade visual e depois abrir um negócio na área de tecnologia, Estou no início de uma carreira como administrador e empreendedor na área de tecnologia e preciso desenvolver minha marca e identidade visual para alcançar o público empresarial e clientes, Linguagem atual, empresarial, tecnológica, site, blog, email, whatsapp, textos, mensagens, marketing pessoal, portfólio e posts, preciso fazer tudo de forma gratuita e primeiro objetivo de sucesso: criar um site pessoal completo, funcional com visual moderno, já incluindo minha marca que no futuro será registrada.
 
 ### O Plano da IA
 
-_Cole o print do plano e conte o que você ajustou antes de a IA começar._
+_superou minhas expectativas._
 
 ### O Resultado
 
-_Cole o print do resultado e conte como você conferiu antes de usar._
+_projeto real em andamento._
 
 ### Como Foi para Você
 
-_Conte em poucas linhas o que mudou no seu dia a dia._
+_superou minhas expectativas._
